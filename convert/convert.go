@@ -1,4 +1,4 @@
-package go_bahttext
+package convert
 
 import (
 	"errors"
